@@ -1,7 +1,7 @@
 <h1 align="center">Skin Cancer Detector</h1></br>
 
 ## :hourglass: Project Video
-:movie_camera: [YouTube Demo Link]() </br>
+:movie_camera: [YouTube Demo Link](https://www.youtube.com/watch?v=81wG8ersit8&feature=youtu.be) </br>
 
 ## :bulb: Project Demo
 Open this colab notebook and follow the mentioned steps.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_2hfXZi_-BLYMJI64BSdLvmuinqxelkS?usp=sharing)
